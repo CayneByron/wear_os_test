@@ -1,16 +1,26 @@
-# exampletest123
+<div id="top"></div>
 
-A new Flutter project.
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-## Getting Started
+Learning project for Wear OS. Still in extremely early development. The plan is to try clone Strava or similar, then send back the raw data to a mobile app or web server for processing.
 
-This project is a starting point for a Flutter application.
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-A few resources to get you started if this is your first Flutter project:
+### Built With
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+This is a Flutter app built for WearOS. Dependencies include
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* [wear](https://pub.dev/packages/wear)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- CONTACT -->
+## Contact
+
+Cayne Byron Butt - [@caynebyron](https://www.instagram.com/caynebyron/) - caynebyron@gmail.com
+
+Project Link: [https://github.com/CayneByron/days_since](https://github.com/CayneByron/days_since)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
